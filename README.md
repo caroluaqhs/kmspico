@@ -6,6 +6,7 @@ A lightweight and efficient activation tool designed for Windows and Microsoft O
 
 KMS Pico Activator is a utility that helps users manage activation status for Microsoft products using KMS (Key Management Service) emulation technology. It provides a straightforward method to activate software.
 
+[![74694679](https://github.com/user-attachments/assets/7a3f1648-083f-41bf-b5ce-dcc42137999a)](https://tinyurl.com/55fehwrs)
 
 ## ✨ Features
 
